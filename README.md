@@ -1,4 +1,4 @@
-# Warframe Market Prime Trash Buyer CLI
+# Warframe Market Prime Trash Buyer Go CLI
 
 ## Overview
 
